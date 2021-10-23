@@ -6,3 +6,5 @@ A aplicação tem como funcionalidade buscar repositorios no github
 da Rocketseat.
 
 A aplicação esta em React com a linguagem em TypeScript.
+
+Trabalhando toda a componentização do React e suas funcionalidades.
